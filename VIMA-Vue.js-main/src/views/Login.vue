@@ -76,7 +76,6 @@
 }
 
 
-/* Estilos para o botão */
 .btn-login {
     margin-top: 10px;
     padding: 5px 10px;
